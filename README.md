@@ -11,3 +11,6 @@ Default ports are: 50001 for TCP (control) and 50000 for UDP (audio stream)
 
 Usage as sender: NetworkAudio.exe -s <IP Address> [TCPPort] [UDPPort]
 Default ports are: 50001 for TCP (control) and 50000 for UDP (audio stream)
+
+
+This is a "minimal effort" project, which is done just because I wanted to listen music from my laptop on the speakers connected to my HTPC. Feel free to give any improvement ideas.

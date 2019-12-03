@@ -1,5 +1,6 @@
 # NetworkAudio
-Transmits sound of a Windows based PC to another Windows based PC
+Transmits sound of a Windows based PC to another Windows based PC.
+Tested only using local network, between two cumputers which are in the same subnet (gigabit connection between the two PCs).
 
 This is a console application. You can use the description below, or just run my batch files from the folder "bin".
 
